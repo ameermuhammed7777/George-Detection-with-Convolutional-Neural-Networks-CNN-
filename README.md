@@ -23,7 +23,6 @@ Pandas for managing the dataset.
 Requests for handling image data from URLs.
 
 
-
 Results:
 
 Achieved a test accuracy of over 80% in detecting Georg.(because,here i split the dataset into a  new one,contain less url than the orginal to make the prediction more speedly,you can use this same code for orginal dataset)
