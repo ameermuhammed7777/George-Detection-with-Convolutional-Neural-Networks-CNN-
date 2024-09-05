@@ -6,7 +6,7 @@ This project implements a binary image classification model using a Convolutiona
 
 
 
-Key Features:-
+KEY FEATURES:-
 
 Data Preprocessing : The dataset consists of images loaded from URLs and preprocessed (resized and normalized) for model training.
 
@@ -18,7 +18,7 @@ Image Prediction : The model can predict if "George" is present in any test imag
 
 
 
-Tools & Libraries:
+TOOLS & LIBRARIES:
 
 TensorFlow/Keras for building and training the CNN.
 
@@ -29,7 +29,7 @@ Pandas for managing the dataset.
 Requests for handling image data from URLs.
 
 
-Results:
+RESULT:
 
 Achieved a test accuracy of over 80% in detecting Georg.(because,here i split the dataset into a  new one,contain less url than the orginal to make the prediction more speedly,you can use this same code for orginal dataset)
 
