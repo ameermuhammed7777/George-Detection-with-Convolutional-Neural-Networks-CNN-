@@ -31,6 +31,6 @@ Requests for handling image data from URLs.
 
 3)RESULT:
 
-Achieved a test accuracy of over 80% in detecting Georg.(because,here i split the dataset into a  new one,contain less url than the orginal to make the prediction more speedly,you can use this same code for orginal dataset)
+Achieved a test accuracy of over 80% in detecting Georg.(because,here i split the dataset into a  new one,contain less url than the original to make the prediction more speedly,you can use this same code for original dataset)
 
 Generates classification reports for evaluating the model's performance.
